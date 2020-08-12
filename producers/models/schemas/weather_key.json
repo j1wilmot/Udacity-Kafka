@@ -1,7 +1,7 @@
 {
-  "namespace": "com.udacity",
+  "namespace": "org.chicago.cta",
   "type": "record",
-  "name": "weather.key",
+  "name": "weather_key",
   "fields": [
     {
       "name": "timestamp",
